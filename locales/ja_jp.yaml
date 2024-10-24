@@ -1,4 +1,3 @@
-# 日本語
 post.tooLong: "リポストされた内容は長すぎるため表示できません。"
 post.reposted: "<user>[さんがリポストしました]"
 post.showMore: "さらに表示"
@@ -137,3 +136,5 @@ achievement.rcr.title: "レアカラーロール"
 achievement.rcr.description: "もしその色をあとで使いたければ、LTSLに加入して`/recolor`コマンドを使おう！"
 achievement.scr.title: "スーパーレア。"
 achievement.scr.description: "たくさんのコインを無駄にしないでください。"
+miaq.generating: "生成中..."
+ftai.generating: "生成中..."
