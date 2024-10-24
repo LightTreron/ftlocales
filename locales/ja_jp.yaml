@@ -137,9 +137,7 @@ achievement.rcr.title: "レアカラーロール"
 achievement.rcr.description: "もしその色をあとで使いたければ、LTSLに加入して`/recolor`コマンドを使おう！"
 achievement.scr.title: "スーパーレア。"
 achievement.scr.description: "たくさんのコインを無駄にしないでください。"
-miaq:
-  generating: 生成中...
-ftai:
-  generating: 生成中...
-  footer: AIによって生成。AIは間違いを犯す可能性があります。
-  fail: ごめんなさい、わたしはそのことに関して話すことはできません。
+miaq.generating: 生成中...
+ftai.generating: 生成中...
+ftai.fail: ごめんなさい、わたしはそのことに関して話すことはできません。
+ftai.footer: AIによる生成。AIは間違いを犯すかもしれません。
