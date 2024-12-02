@@ -36,10 +36,10 @@ achievement.nocturnal.title: "Nocturnal"
 achievement.nocturnal.description: "Send a message late at night"
 achievement.nocontenttrend.title: "Trending, but I didn't say anything..."
 achievement.nocontenttrend.description: "Be trending without text"
-achievement.jasp.title: "||Well, you got the secret by server owner...||"
+achievement.jasp.title: "||Well, you got the secret by aspou2413...||"
 achievement.jasp.description: "||https://discord.com/channels/1227213276576874558/1227216489199960157/1276493480423718922||"
 achievement.1c12l.title: "I got 12 likes with only 1 character!"
-achievement.1c12l.description: "How did you do this?"
+achievement.1c12l.description: "But how?"
 achievement.0l16r.title: "16 reposts without likes"
 achievement.0l16r.description: "How is this possible?"
 achievement.0l5r.title: "5 reposts without likes"
@@ -147,5 +147,5 @@ topX: (Top &n%)
 bump.notify: We will notify you <time>.
 command.donate.amazon.wishlist: 'Wishlist (Amazon):'
 second.welcome: Welcome!
-second.firstdm: あなたに100コインとユーザーロールを付与しました。このDMは今後ブックマークしたポストが届きます。
+second.firstdm: You have been granted 100 coins and a user role. This DM will receive bookmarked posts in the future.
 space.voice.title: <user> space
