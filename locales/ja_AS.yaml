@@ -149,3 +149,4 @@ command.donate.amazon.wishlist: '欲しいものリスト (Amazon):'
 second.welcome: ようこそ！
 second.firstdm: あなたに100コインとユーザーロールを付与しました。このDMは今後ブックマークしたポストが届きます。
 space.voice.title: <user>のスペース
+command.request.description: コインを請求する
