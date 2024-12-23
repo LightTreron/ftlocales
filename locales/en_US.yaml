@@ -164,3 +164,5 @@ command.request.requestCompleted: Request completed!
 command.request.dm.notEnoughCoins: You don't have enough coins to give.
 command.request.dm.transferSuccess: Coin Transfer Success!
 command.requested.dm.gave: You have given <coins> coins to <user>.
+command.request.accepted.title: Your request has been accepted!
+command.request.declined.title: Your request has been declined...
