@@ -150,3 +150,7 @@ second.welcome: ようこそ！
 second.firstdm: あなたに100コインとユーザーロールを付与しました。このDMは今後ブックマークしたポストが届きます。
 space.voice.title: <user>のスペース
 command.request.description: コインを請求する
+command.request.dm.requested: <user> から <coins> コインの請求が届いています。
+command.request.dm.coinRequest: コインの請求
+command.request.botDenied: Botからコインを請求することはできません。
+command.request.check: 本当にコインを請求しますか？
