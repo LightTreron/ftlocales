@@ -150,3 +150,7 @@ second.welcome: Welcome!
 second.firstdm: You have been granted 100 coins and a user role. This DM will receive bookmarked posts in the future.
 space.voice.title: <user> space
 command.request.description: Request coins
+command.request.dm.requested: <user> has requested <coins> coins from you.
+command.request.dm.coinRequest: Coin request
+command.request.botDenied: You can't request coins from bots.
+command.request.check: Are you sure you want to request coins?
