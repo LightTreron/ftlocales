@@ -154,3 +154,7 @@ command.request.dm.requested: <user> から <coins> コインの請求が届い�
 command.request.dm.coinRequest: コインの請求
 command.request.botDenied: Botからコインを請求することはできません。
 command.request.check: 本当にコインを請求しますか？
+yes: はい
+no: いいえ
+accept: 承認
+decline: 拒否
