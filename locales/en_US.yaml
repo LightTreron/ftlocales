@@ -158,3 +158,9 @@ yes: "Yes"
 no: "No"
 accept: Accept
 decline: Decline
+command.request.dm.declined: <user> has declined your request
+command.request.dm.accepted: <user> has accepted your request
+command.request.requestCompleted: Request completed!
+command.request.dm.notEnoughCoins: You don't have enough coins to give.
+command.request.dm.transferSuccess: Coin Transfer Success!
+command.requested.dm.gave: You have given <coins> coins to <user>.
