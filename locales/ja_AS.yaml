@@ -164,3 +164,5 @@ command.request.requestCompleted: 請求完了！
 command.request.dm.notEnoughCoins: 贈るためのコインが不足しています。
 command.request.dm.transferSuccess: コイン贈与完了！
 command.requested.dm.gave: <user> へ <coins> コインを贈与しました。
+command.request.accepted.title: あなたの請求が承認されました！
+command.request.declined.title: あなたの請求は拒否されました...
