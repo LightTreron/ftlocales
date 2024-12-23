@@ -149,3 +149,4 @@ command.donate.amazon.wishlist: 'Wishlist (Amazon):'
 second.welcome: Welcome!
 second.firstdm: You have been granted 100 coins and a user role. This DM will receive bookmarked posts in the future.
 space.voice.title: <user> space
+command.request.description: Request coins
