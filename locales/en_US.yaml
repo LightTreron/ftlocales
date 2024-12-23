@@ -154,3 +154,7 @@ command.request.dm.requested: <user> has requested <coins> coins from you.
 command.request.dm.coinRequest: Coin request
 command.request.botDenied: You can't request coins from bots.
 command.request.check: Are you sure you want to request coins?
+yes: "Yes"
+no: "No"
+accept: Accept
+decline: Decline
