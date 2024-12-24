@@ -171,3 +171,4 @@ coolingDown: Cooling down...
 command.reapply.notEnoughCoins: 'Not enough coins! (Required coins: <coins>)'
 command.reapply.description: Reapply color role easily
 command.reapply.reapplied: The color role has been reapplied!
+command.reapply.already: The color role is already applied!
