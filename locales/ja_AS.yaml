@@ -168,3 +168,6 @@ command.request.accepted.title: あなたの請求が承認されました！
 command.request.declined.title: あなたの請求は拒否されました...
 command.request.yourself: あなた自身からコインを請求することはできません。
 coolingDown: クールダウン中...
+command.reapply.notEnoughCoins: 'コインが足りません！(必要なコイン数: <coins>)'
+command.reapply.description: 色ロールを楽に再適用します
+command.reapply.reapplied: 色ロールを再適用しました！
