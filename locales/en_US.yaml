@@ -168,3 +168,6 @@ command.request.accepted.title: Your request has been accepted!
 command.request.declined.title: Your request has been declined...
 command.request.yourself: You can't request coins from yourself.
 coolingDown: Cooling down...
+command.reapply.notEnoughCoins: 'Not enough coins! (Required coins: <coins>)'
+command.reapply.description: Reapply color role easily
+command.reapply.reapplied: The color role has been reapplied!
