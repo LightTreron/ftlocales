@@ -116,7 +116,7 @@ command.stats.title: "<user>の統計"
 command.stats.engagements: "ポストのいいねされた数とリポストされた数"
 command.stats.loginStreak: "%d日連続ログイン (最高: %l日連続)"
 command.donate.method: "寄付方法："
-command.donate.kyash: "Kyash"
+command.donate.kyash: "Kyash、よろしくお願いします！Kyash！Kyash！Kyash！Kyash、よろしくお願いします！"
 command.donate.sen: "寄付してくれるとうれしいな"
 command.donate.footer: "無理して寄付しなくてもいいよ"
 command.donate.comment: "単純になにか(例えば女装グッズ！)くれてもいいよ"
@@ -146,7 +146,7 @@ achievement.30day.description: いいね。
 topX: (上位&n%)
 bump.notify: <time>に通知します。
 command.donate.amazon.wishlist: '欲しいものリスト (Amazon):'
-second.welcome: ようこそ！
+second.welcome: よこそう！
 second.firstdm: あなたに100コインとユーザーロールを付与しました。このDMは今後ブックマークしたポストが届きます。
 space.voice.title: <user>のスペース
 command.request.description: コインを請求する
