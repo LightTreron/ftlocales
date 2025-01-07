@@ -172,3 +172,4 @@ command.reapply.notEnoughCoins: 'コインが足りません！(必要なコイ�
 command.reapply.description: 色ロールを楽に再適用します
 command.reapply.reapplied: 色ロールを再適用しました！
 command.reapply.already: 既にその色ロールは適用されています！
+acknowledgements: 謝辞
