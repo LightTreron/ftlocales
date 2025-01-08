@@ -21,7 +21,7 @@ achievement.1reposted.description: "どこかのにゃんこがあにゃたの�
 achievement.trend.title: "トレンド入りにゃ！"
 achievement.trend.description: "あにゃたのポストがトレンド入りしたにゃ！"
 achievement.ltsl.title: "LTSL！"
-achievement.ltsl.description: "Ligtht Treron Sugoi Lightに加入するにゃ！"
+achievement.ltsl.description: "Light Treron Sugoi Lightに加入するにゃ！"
 achievement.cgacha.title: "色ガチャ！"
 achievement.cgacha.description: "/cgachaコマンドで色ガチャを回すにゃ！"
 achievement.1post.title: "はじめてのポストにゃ！"
@@ -78,8 +78,8 @@ achievement.5kcoinsend.title: "これらのCiaoちゅ～るをただで受け取
 achievement.5kcoinsend.description: "5000Ciaoちゅ～る以上をどこかのにゃんこに送るにゃ！"
 achievement.allsend.title: "大丈夫にゃ、全部持ってけにゃ！！"
 achievement.allsend.description: "持っているすべてのCiaoちゅ～るをどこかのにゃんこに送るにゃ！"
-achievement.sendaspoucoin.title: "||あなたが一体誰なのか私は知ってる。||"
-achievement.sendaspoucoin.description: "||*2413*がなにを意味するのか、私には全くわからない...||"
+achievement.sendaspoucoin.title: "||あにゃたが一体誰にゃのか私は知ってる。||"
+achievement.sendaspoucoin.description: "||*2413*がにゃにを意味するのか、私には全くわからないにゃ...||"
 achievement.100reposted.title: "広めて、広めて、広めて、..."
 achievement.100reposted.description: "100回リポストされる"
 achievement.100liked.title: "お、100回いいねされた？"
@@ -88,7 +88,7 @@ achievement.10kcoinsend.title: "私のコインをたくさん持っていって
 achievement.10kcoinsend.description: "10,000コイン以上を誰かに送る"
 achievement.rainbow.title: "虹色ロール、それは特別だ！"
 achievement.rainbow.description: "レインボーロールを手に入れる"
-achievement.unsightreadable.title: "えっと、あなたは誰...？"
+achievement.unsightreadable.title: "あの、あにゃたは誰にゃ...？"
 achievement.unsightreadable.description: "みえにくすぎグレーロールを手に入れる"
 achievement.cgacha3same.title: "ねえ、色ガチャで3回同じ色が出たんだけど。"
 achievement.cgacha3same.description: "色ガチャで3回連続同じロールを手に入れる"
@@ -104,8 +104,8 @@ achievement.1space.title: "スペースって一体なんなんだ？"
 achievement.1space.description: "最初のスペースをはじめよう"
 achievement.10space.title: "どうスペースが動いているのかわかったぞ。"
 achievement.10space.description: "10回スペースを作成する"
-achievement.10kcoin.title: "ねえ、私は今金持ちや！"
-achievement.10kcoin.description: "1万コインを持つ"
+achievement.10kcoin.title: "にゃ！私はお金持ちにゃ！"
+achievement.10kcoin.description: "1万のCiaoちゅ～るを持つ"
 achievement.1klike.title: "このコミュニティのポストが大好きなんだ！"
 achievement.1klike.description: "1,000回いいねする"
 achievement.1kliked.title: "このコミュニティは私のことがとても大好きです！"
@@ -118,14 +118,14 @@ command.stats.loginStreak: "%d日連続ログイン (最高: %l日連続)"
 command.donate.method: "寄付方法："
 command.donate.kyash: "Kyash"
 command.donate.sen: "これが<target>に寄付する方法です。"
-command.donate.footer: "もしあなたが貧しい人であれば、寄付をするのはお勧めしません。あなたの生活のために使ってください。"
+command.donate.footer: "もしあにゃたが貧しいにゃら、寄付するのはお勧めしないにゃ。あにゃたの生活のために使ってにゃ。"
 command.donate.comment: "単純に何か(例：マタタビ)をギフトとして贈ることも可能です。"
 command.donate.booth: "BOOTH"
 command.achievement.empty: "(空)"
 command.achievement.title: "<user>の実績"
 command.achievement.hidden: "(隠し実績: <id>)"
-command.exchange.notEnoughXP: "XPが足りません！"
-command.exchange.notEnoughCoin: "コインが足りません！"
+command.exchange.notEnoughXP: "XPが足りないにゃ！"
+command.exchange.notEnoughCoin: "コインが足りないにゃ！"
 command.achievement.information.title: "実績の情報"
 command.leaderboard.title: "リーダーボード"
 panel.addRole: "追加されたロール："
@@ -136,7 +136,7 @@ achievement.14day.description: "2週間、いいね！"
 achievement.rcr.title: "レアカラーロール"
 achievement.rcr.description: "もしその色をあとで使いたければ、LTSLに加入して`/recolor`コマンドを使おう！"
 achievement.scr.title: "スーパーレア。"
-achievement.scr.description: "たくさんのコインを無駄にしないでください。"
+achievement.scr.description: "たくさんのCiaoちゅ～るを無駄にしないでにゃ。"
 miaq.generating: 生成中...
 ftai.generating: 生成中...
 ftai.fail: ごめんなさい、わたしはそのことに関して話すことはできません。
@@ -156,14 +156,14 @@ command.request.botDenied: Botからコインを請求することはできま�
 command.request.check: 本当にコインを請求しますか？
 yes: はい
 no: いいえ
-accept: 承認
-decline: 拒否
+accept: いいにゃ。
+decline: だめにゃ。
 command.request.dm.declined: <user> はあなたの請求を拒否しました
 command.request.dm.accepted: <user> はあなたの請求を承認しました
 command.request.requestCompleted: 請求完了！
 command.request.dm.notEnoughCoins: 贈るためのコインが不足しています。
 command.request.dm.transferSuccess: コイン贈与完了！
-command.requested.dm.gave: <user> へ <coins> コインを贈与しました。
+command.requested.dm.gave: <user> へ <coins> 個のCiaoちゅ～るを贈与したにゃ。
 command.request.accepted.title: あなたの請求が承認されました！
 command.request.declined.title: あなたの請求は拒否されました...
 command.request.yourself: あなた自身からコインを請求することはできません。
