@@ -41,7 +41,7 @@ achievement.jasp.description: "||https://discord.com/channels/122721327657687455
 achievement.1c12l.title: "I got 12 likes with only 1 character!"
 achievement.1c12l.description: "But how?"
 achievement.0l16r.title: "16 reposts without likes"
-achievement.0l16r.description: "How is this possible?"
+achievement.0l16r.description: "Is this achievement possible to unlock?"
 achievement.0l5r.title: "5 reposts without likes"
 achievement.0l5r.description: "Only 11 reposts to unlock another achievement!"
 achievement.nyan8r.title: "We love to spread Nyan!"
@@ -173,3 +173,6 @@ command.reapply.description: Reapply color role easily
 command.reapply.reapplied: The color role has been reapplied!
 command.reapply.already: The color role is already applied!
 acknowledgements: Acknowledgements
+command:
+  donate:
+    pixivFANBOX: pixivFANBOX
