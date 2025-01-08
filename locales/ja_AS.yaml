@@ -174,3 +174,5 @@ command.reapply.reapplied: 色ロールを再適用しました！
 command.reapply.already: 既にその色ロールは適用されています！
 acknowledgements: 謝辞
 command.donate.pixivFANBOX: pixivFANBOX
+command.redeem.invalid: そのコードは有効ではありません。
+command.redeem.unusable: そのコードは期限切れであるか、存在しません。
