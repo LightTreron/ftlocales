@@ -176,3 +176,4 @@ acknowledgements: 謝辞
 command.donate.pixivFANBOX: pixivFANBOX
 command.redeem.invalid: そのコードは有効ではありません。
 command.redeem.unusable: そのコードは期限切れであるか、存在しません。
+command.redeem.success: "<type> が正常に引き換えられました！\nこれからもFirst Treronライフを楽しんでください！"
