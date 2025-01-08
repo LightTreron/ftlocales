@@ -176,3 +176,4 @@ acknowledgements: Acknowledgements
 command.donate.pixivFANBOX: pixivFANBOX
 command.redeem.invalid: That code is not valid.
 command.redeem.unusable: That code is expired or doesn't exist.
+command.redeem.success: "You have successfully redeemed <type>!\nPlease continue to enjoy your First Treron life!"
