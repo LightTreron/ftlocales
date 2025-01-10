@@ -9,7 +9,7 @@ achievement.unlock: "実績が解除されたにゃ！"
 achievement.beginning.title: "始まり"
 achievement.beginning.description: "これで準備完了にゃ！"
 achievement.1like.title: "はじめてのいいねにゃ！"
-achievement.1like.description: "いいねをしたにゃ！"
+achievement.1like.description: "いいねしたにゃ！"
 achievement.1repost.title: "はじめてのリポストにゃ！"
 achievement.1repost.description: "リポストしたにゃ！"
 achievement.1bm.title: "はじめてのブックマークにゃ！"
@@ -36,7 +36,7 @@ achievement.nocturnal.title: "夜行性"
 achievement.nocturnal.description: "夜遅くにポストするにゃ！"
 achievement.nocontenttrend.title: "トレンド入りしたけど、にゃにも言ってにゃいにゃ..."
 achievement.nocontenttrend.description: "テキストにゃしでトレンド入りするにゃ！"
-achievement.jasp.title: "||う～ん、あにゃたはにゃんこ@aspou2413からの秘密を手に入れたにゃ！||"
+achievement.jasp.title: "||う～ん、あにゃたはaspou2413にゃんからの秘密を手に入れたにゃ！||"
 achievement.jasp.description: "||https://discord.com/channels/1227213276576874558/1227216489199960157/1276493480423718922||"
 achievement.1c12l.title: "1文字だけで12いいねをもらえたにゃ！"
 achievement.1c12l.description: "でもどうやってにゃ？"
@@ -96,7 +96,7 @@ achievement.cgacha5same.title: "まさか5回連続でおにゃじ色を手に�
 achievement.cgacha5same.description: "色ガチャで5回連続おにゃじロールを手に入れるにゃ！"
 achievement.selflike.title: "これもいいねとしてカウントされるにゃ！"
 achievement.selflike.description: "自分で自分のポストをいいねするにゃ！"
-achievement.sendnicewithfee.title: "\\*ﾆｬｲｽﾆｬ\\*"
+achievement.sendnicewithfee.title: "\\* ﾆｬｲｽﾆｬ \\*"
 achievement.sendnicewithfee.description: "あにゃたは69Ciaoちゅ～るを使ってどこかのにゃんこにCiaoちゅ～るを送金した"
 achievement.7day.title: "7日連続ログインにゃ！"
 achievement.7day.description: "あにゃたはどれだけ記録を伸ばし続けられるかにゃ？"
@@ -129,9 +129,9 @@ command.exchange.notEnoughCoin: "Ciaoちゅ～るが足りないにゃ！"
 command.achievement.information.title: "実績の情報"
 command.leaderboard.title: "リーダーボード"
 panel.addRole: "追加されたロール："
-panel.removeRole: "剝奪されたロールにゃ："
-command.ranking.streak.loginStreak: "%d日連続にゃ"
-achievement.14day.title: "14日連続ログインにゃ！"
+panel.removeRole: "剝奪されたロール："
+command.ranking.streak.loginStreak: "%d日連続"
+achievement.14day.title: "14日連続ログイン"
 achievement.14day.description: "2週間、いいにゃ！"
 achievement.rcr.title: "レアカラーロールにゃ"
 achievement.rcr.description: "もしその色をあとで使いたければ、LTSLに加入して`/recolor`コマンドを使おうにゃ！"
@@ -144,37 +144,37 @@ ftai.footer: AIにゃんこによる生成にゃ。AIにゃんこは間違いを
 achievement.30day.title: 30日連続ログインにゃ！
 achievement.30day.description: いいにゃ。
 topX: (上位&n%)
-bump.notify: <time>に通知します。
-command.donate.amazon.wishlist: '欲しいものリスト (Amazon):'
-second.welcome: ようこそ！
-second.firstdm: あなたに100コインとユーザーロールを付与しました。このDMは今後ブックマークしたポストが届きます。
-space.voice.title: <user>のスペース
-command.request.description: コインを請求する
-command.request.dm.requested: <user> から <coins> コインの請求が届いています。
-command.request.dm.coinRequest: コインの請求
-command.request.botDenied: Botからコインを請求することはできません。
-command.request.check: 本当にコインを請求しますか？
+bump.notify: <time>に通知するにゃ。
+command.donate.amazon.wishlist: '欲しいものリスト (Anyazon):'
+second.welcome: ようこそにゃ！
+second.firstdm: あなたに100Ciaoちゅ～るとユーザーロールを付与したにゃ。このDMは今後ブックマークしたポストが届くにゃ。
+space.voice.title: <user>のスペースにゃ！
+command.request.description: コインを請求するにゃ
+command.request.dm.requested: <user> から <coins> Ciaoチュールの請求が届いているにゃ。
+command.request.dm.coinRequest: Ciaoちゅ～るの請求にゃ
+command.request.botDenied: BotにゃんこからCiaoちゅ～るを請求することはできにゃいにゃ。
+command.request.check: 本当にCiaoちゅ～るを請求するかにゃ？
 yes: はい
 no: いいえ
 accept: いいにゃ。
 decline: だめにゃ。
-command.request.dm.declined: <user> はあなたの請求を拒否しました
-command.request.dm.accepted: <user> はあなたの請求を承認しました
-command.request.requestCompleted: 請求完了！
-command.request.dm.notEnoughCoins: 贈るためのコインが不足しています。
-command.request.dm.transferSuccess: コイン贈与完了！
+command.request.dm.declined: <user> はあにゃたの請求を拒否したにゃ
+command.request.dm.accepted: <user> はあにゃたの請求を承認したにゃ
+command.request.requestCompleted: 請求完了にゃ！
+command.request.dm.notEnoughCoins: 贈るためのCiaoちゅ～るが不足しているにゃ。
+command.request.dm.transferSuccess: Ciaoちゅ～る贈与完了にゃ！
 command.requested.dm.gave: <user> へ <coins> 個のCiaoちゅ～るを贈与したにゃ。
-command.request.accepted.title: あなたの請求が承認されました！
-command.request.declined.title: あなたの請求は拒否されました...
-command.request.yourself: あなた自身からコインを請求することはできません。
+command.request.accepted.title: あにゃたの請求が承認されたにゃ！
+command.request.declined.title: あにゃたの請求が拒否されたにゃ...
+command.request.yourself: あにゃた自身からCiaoちゅ～るを請求することはできにゃいにゃ。
 coolingDown: クールダウン中だにゃー
-command.reapply.notEnoughCoins: 'コインが足りません！(必要なコイン数: <coins>)'
-command.reapply.description: 色ロールを楽に再適用します
-command.reapply.reapplied: 色ロールを再適用しました！
-command.reapply.already: 既にその色ロールは適用されています！
+command.reapply.notEnoughCoins: 'Ciaoちゅ～るが足りません！(必要なCiaoちゅ～る: <coins>)'
+command.reapply.description: 色ロールを楽に再適用するにゃ
+command.reapply.reapplied: 色ロールを再適用しましたにゃ！
+command.reapply.already: 既にその色ロールは適用されているにゃ！
 acknowledgements: 謝辞
 command.donate.pixivFANBOX: pixivFANBOX
-command.redeem.invalid: そのコードは有効ではありません。
-command.redeem.unusable: そのコードは期限切れであるか、存在しません。
-command.redeem.success: "<type> が正常に引き換えられました！\nこれからもFirst Treronライフを楽しんでください！"
+command.redeem.invalid: そのコードは有効じゃにゃいにゃ。
+command.redeem.unusable: そのコードは期限切れであるか、存在しにゃいにゃ。
+command.redeem.success: "<type> が正常に引き換えられたにゃ！\nこれからもFirst Treronにゃんこのライフを楽しんでくださいにゃ！"
 acknowledgements.icon: アイコン：
