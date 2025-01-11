@@ -178,3 +178,6 @@ command.redeem.invalid: そのコードは有効じゃにゃいにゃん。
 command.redeem.unusable: そのコードは期限切れであるか、存在しにゃいにゃ。
 command.redeem.success: "<type> が正常に引き換えられたにゃ！\nこれからもFirst Treronにゃんこのライフを楽しんでくださいにゃ！"
 acknowledgements.icon: アイコン：
+command:
+  ltshare:
+    name: 共有
