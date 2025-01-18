@@ -178,4 +178,4 @@ command.redeem.invalid: That code is not valid.
 command.redeem.unusable: That code is expired or doesn't exist.
 command.redeem.success: "You have successfully redeemed <type>!\nPlease continue to enjoy your First Treron life!"
 acknowledgements.icon: 'Icon: '
-command.ltshare.name: 共有
+command.ltshare.name: Share
